@@ -1,0 +1,19 @@
+"export-plot data (NetLogo 6.2.0)"
+"Sugarscape 2 Constant Growback.nlogo"
+"02/22/2021 19:59:45:325 +0000"
+
+"MODEL SETTINGS"
+"visualization","initial-population"
+"""color-agents-by-vision""","1000"
+
+"""Metabolism Distribution"""
+"x min","x max","y min","y max","autoplot?","current pen","legend open?","number of pens"
+"0","3","0","268","true","""default""","false","1"
+
+"pen name","pen down?","mode","interval","color","x"
+"""default""","true","1","0.3","0","1.7999999999999998"
+
+"""default"""
+"x","y","color","pen down?"
+"0.8999999999999999","221","0","true"
+"1.7999999999999998","218","0","true"

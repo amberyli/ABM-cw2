@@ -1,0 +1,23 @@
+"export-plot data (NetLogo 6.2.0)"
+"Sugarscape 1 Immediate Growback.nlogo"
+"02/22/2021 21:17:10:787 +0000"
+
+"MODEL SETTINGS"
+"visualization","initial-population"
+"""color-agents-by-vision""","50"
+
+"""Vision distribution"""
+"x min","x max","y min","y max","autoplot?","current pen","legend open?","number of pens"
+"0","7","0","11","true","""default""","false","1"
+
+"pen name","pen down?","mode","interval","color","x"
+"""default""","true","1","0.7","0","5.6"
+
+"""default"""
+"x","y","color","pen down?"
+"0.7","6","0","true"
+"1.4","2","0","true"
+"2.8","7","0","true"
+"3.5","8","0","true"
+"4.8999999999999995","3","0","true"
+"5.6","8","0","true"
